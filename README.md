@@ -1,3 +1,3 @@
 # Online-Resume-Page
-Title : Online Resume Page
-Tools used : HTML, CSS, BootStrap
+Online Resume Page
+using HTML, CSS, BootStrap
